@@ -1,3 +1,3 @@
-# Project name: Expanding Cards
+# Project name: Music Player
 
 # Using Javascript HTML CSS
